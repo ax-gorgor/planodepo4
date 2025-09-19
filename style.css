@@ -1,0 +1,1372 @@
+*{margin: 0;
+    padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;}
+  
+   
+       
+  body{background-color: #ededed;}
+  
+  
+  .container{ width: 35%;
+    
+             height: 890px;
+             border: 5px ;
+             border-radius: 5px;
+   
+             
+             background-color: rgb(214, 214, 214);
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            grid-template-rows: repeat(22, 1fr);
+            justify-content: center
+        ;
+        align-items: center;
+           
+             }
+  
+  .subcontainer0{ 
+              grid-column-start: 5;
+              grid-column-end: 6;
+              grid-row-start: 3;
+              grid-row-end: 4;}
+  
+  .banner0-0 img {width: 65px;
+     }
+         
+        .subcontainer1 { width: 100%;
+                     height: 80%;
+                     
+                     background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+                     margin: auto;
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 1;
+        grid-row-end: 2;}
+  
+        .banner1-1{width: 100%;
+            height: 100%;
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 2;
+         
+  
+  
+  
+        }
+        
+                   
+  
+  
+       .subcontainer2 { width: 100%;
+        height: 100%;
+        background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+       
+       padding: 2%;
+       grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row-start: 2;
+        grid-row-end: 4;
+       
+        
+       }
+  
+    .banner2-0 {font-weight: 300;
+                font-size: 18px;
+                padding: 2%;
+                margin-top: -6%;
+     }
+  
+    .banner2-1{font-weight: 300;
+               font-size: 18px;
+               margin-left: 55%;
+               margin-top: -22%;
+                
+                
+     
+    }
+  
+    .flag img {width: 30%;
+                padding: 5px;
+                
+                  
+  }
+  
+    .subcontainer3 {  width: 60%;
+        height: 100%;
+        background: rgb(160, 160, 160) ;
+        border: 2px solid;
+        border-radius: 5px;
+      
+       
+       grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 2;
+        grid-row-end: 23;
+  
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(8, 1fr);
+        justify-content: center
+        }
+  
+  
+  
+  .banner3-0{width: 100%;
+        height: 100%;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+     
+  
+  }
+  
+  .banner3-1{width: 100%;
+    height: 100%;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+   
+  
+  }
+  
+  .banner3-2{width: 100%;
+    height: 100%;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    
+  
+  }
+  
+  .banner3-3{width: 100%;
+    height: 100%;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    
+  
+  }
+  
+  .banner3-4{width: 100%;
+    height: 100%;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    
+  
+  }
+  
+  .banner3-5{width: 100%;
+    height: 100%;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 6;
+    grid-row-end: 7;
+    
+  
+  }
+  
+  .banner3-6{width: 100%;
+    height: 100%;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 7;
+    grid-row-end: 8;
+    
+  
+  }
+  
+  .banner3-7{width: 100%;
+    height: 100%;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 8;
+    grid-row-end: 9;
+    
+  
+  }
+  
+  
+  
+     
+           
+           .subcontainer4 { width: 100%;
+            height: 100%;
+            background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+            
+            grid-column-start: 2;
+        grid-column-end: 5;
+        grid-row-start: 5;
+        grid-row-end: 17;
+  
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        justify-content: center
+       
+           
+         }
+  
+         .banner4-0{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 2;
+            grid-row-end: 3;
+            
+        
+        }
+  
+        .banner4-1{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 3;
+            grid-row-end: 4;
+            
+        
+        }
+  
+        .banner4-2{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 4;
+            grid-row-end: 5;
+            
+        
+        }
+        
+        .banner4-3{width: 100%;
+            height: 100%;
+            grid-column-start: 2;
+            grid-column-end: 3;
+            grid-row-start: 2;
+            grid-row-end: 3;
+            
+        
+        }
+  
+        .banner4-4{width: 100%;
+            height: 100%;
+            grid-column-start: 2;
+            grid-column-end: 3;
+            grid-row-start: 3;
+            grid-row-end: 4;
+            
+        
+        }
+  
+        .banner4-5{width: 100%;
+            height: 100%;
+            grid-column-start: 2;
+            grid-column-end: 3;
+            grid-row-start: 4;
+            grid-row-end: 5;
+            
+        
+        }
+  
+  
+  
+    
+         .subcontainer5 { width: 50%;
+            height: 100%;
+            margin-left: 50%;
+            background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+            
+            grid-column-start: 6;
+        grid-column-end: 7;
+        grid-row-start: 2;
+        grid-row-end: 17;
+         
+           
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        justify-content: center
+         }
+  
+         .banner5-0{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 1;
+            grid-row-end: 2;
+            
+        
+        }
+  
+        .banner5-1{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 2;
+            grid-row-end: 3;
+            
+        
+        }
+  
+        .banner5-2{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 3;
+            grid-row-end: 4;
+            
+        
+        }
+  
+        .banner5-3{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 4;
+            grid-row-end: 5;
+            
+        
+        }
+  
+        .banner5-4{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 5;
+            grid-row-end: 6;
+            
+        
+        }
+  
+  
+  
+  
+         .subcontainer6 { width: 50%;
+            height: 100%;
+            margin-left: 50%;
+            background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+            grid-column-start: 6;
+        grid-column-end: 7;
+        grid-row-start: 18;
+        grid-row-end: 23;
+        
+           
+         }
+  
+         .subcontainerOficina { width: 20%;
+          height: 20%;
+          margin-left: 50%;
+          grid-column-start: 5;
+      grid-column-end: 7;
+      grid-row-start: 22;
+      grid-row-end: 24;
+      background:  rgb(214, 214, 214) ;
+      /*border: 2px solid;
+      border-radius: 5px;*/
+       }
+  
+         .subcontainer7 { width: 100%;
+            height: 100%;
+            background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+            grid-column-start: 2;
+        grid-column-end: 5;
+        grid-row-start: 18;
+        grid-row-end: 19;
+  
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        justify-content: center
+        
+           
+         }
+  
+         .banner7-0{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 1;
+            grid-row-end: 2;
+            
+        
+        }
+  
+        .banner7-1{width: 100%;
+            height: 100%;
+            grid-column-start: 2;
+            grid-column-end: 3;
+            grid-row-start: 1;
+            grid-row-end: 2;
+            
+        
+        }
+  
+  
+  
+  
+         .subcontainer8 { width: 100%;
+            height: 100%;
+            background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+            grid-column-start: 2;
+        grid-column-end: 5;
+        grid-row-start: 20;
+        grid-row-end: 21;
+  
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        justify-content: center
+      
+           
+         }
+  
+         .banner8-0{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 1;
+            grid-row-end: 2;
+            
+        
+        }
+  
+        .banner8-1{width: 100%;
+            height: 100%;
+            grid-column-start: 2;
+            grid-column-end: 3;
+            grid-row-start: 1;
+            grid-row-end: 2;
+            
+        
+        }
+  
+  
+  
+  
+         .subcontainer9 { width: 100%;
+            height: 100%;
+            background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+            grid-column-start: 2;
+        grid-column-end: 5;
+        grid-row-start: 22;
+        grid-row-end: 23;
+         
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        justify-content: center
+         }
+        
+  
+         .banner9-0{width: 100%;
+            height: 100%;
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 1;
+            grid-row-end: 2;
+            
+        
+        }
+  
+        .banner9-1{width: 100%;
+            height: 100%;
+            grid-column-start: 2;
+            grid-column-end: 3;
+            grid-row-start: 1;
+            grid-row-end: 2;
+            
+        
+        }
+
+.flag2 img{width: 60px;
+            padding: 10%;
+             
+            
+        
+        }
+
+  
+           /******************************************************************************************************************************
+  *******************************************************************************************************************************
+  *******************************************************************************************************************************
+  ******************************************************************************************************************************/
+  
+  @media screen and (max-width:936px)
+  
+  
+  {
+    
+  .container{ width: 50%;
+    
+    height: 890px;
+    
+    background-color: rgb(255, 255, 255);
+   display: grid;
+   grid-template-columns: repeat(6, 1fr);
+   grid-template-rows: repeat(22, 1fr);
+   justify-content: center
+  ;
+  align-items: center;
+  
+    }
+  
+  
+  .subcontainer1 { width: 100%;
+            height: 80%;
+            background: rgb(255, 209, 156) ;
+            border: 2px solid;
+            border-radius: 5px;
+            margin: auto;
+  grid-column-start: 4;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 2;}
+  
+          
+  
+  
+  .subcontainer2 { width: 100%;
+  height: 100%;
+  background: rgb(255, 202, 251) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+  
+  padding: 2%;
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 4;
+  
+  
+  }
+  
+  
+  
+  .subcontainer3 {  width: 60%;
+  height: 100%;
+  background: rgb(253, 255, 162) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+  
+  
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 23;
+  
+  }
+  
+  
+  .subcontainer4 { width: 100%;
+   height: 100%;
+   background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   
+   grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 5;
+  grid-row-end: 17;
+  
+  
+  }
+  
+  .subcontainer5 { width: 50%;
+   height: 100%;
+   margin-left: 50%;
+   background: rgb(129, 173, 255) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   
+   grid-column-start: 6;
+  grid-column-end: 7;
+  grid-row-start: 2;
+  grid-row-end: 17;
+  
+  
+  }
+  
+  .subcontainer6 { width: 50%;
+   height: 100%;
+   margin-left: 50%;
+   background: rgb(105, 206, 176) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   grid-column-start: 6;
+  grid-column-end: 7;
+  grid-row-start: 18;
+  grid-row-end: 23;
+  
+  
+  }
+  
+  .subcontainerOficina { width: 20%;
+    height: 20%;
+    margin-left: 50%;
+    grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 22;
+  grid-row-end: 24;
+  background:  rgb(44, 65, 255) ;
+  /*border: 2px solid;
+  border-radius: 5px;*/
+  }
+  
+  .subcontainer7 { width: 100%;
+   height: 100%;
+   background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 18;
+  grid-row-end: 19;
+  
+  
+  }
+  
+  .subcontainer8 { width: 100%;
+   height: 100%;
+   background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 20;
+  grid-row-end: 21;
+  
+  
+  }
+  .subcontainer9 { width: 100%;
+   height: 100%;
+   background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 22;
+  grid-row-end: 23;
+  
+  
+  }
+         
+  
+              }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /******************************************************************************************************************************
+  *******************************************************************************************************************************
+  *******************************************************************************************************************************
+  ******************************************************************************************************************************/
+  
+  @media screen and (max-width:800px)
+  
+  
+  {
+     
+  .container{ width: 65%;
+    
+    height: 890px;
+    
+    background-color: rgb(255, 255, 255);
+                     border: 2px solid;
+                     border-radius: 5px;
+   display: grid;
+   grid-template-columns: repeat(6, 1fr);
+   grid-template-rows: repeat(22, 1fr);
+   justify-content: center
+  ;
+  align-items: center;
+  
+    }
+  
+  
+  .subcontainer1 { width: 100%;
+            height: 80%;
+            background: rgb(255, 209, 156) ;
+            border: 2px solid;
+            border-radius: 5px;
+            margin: auto;
+  grid-column-start: 4;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 2;}
+  
+          
+  
+  
+  .subcontainer2 { width: 100%;
+  height: 100%;
+  background: rgb(255, 202, 251) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+  
+  padding: 2%;
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 4;
+  
+  
+  }
+  
+  
+  
+  .subcontainer3 {  width: 60%;
+  height: 100%;
+  background: rgb(253, 255, 162) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+  
+  
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 23;
+  
+  }
+  
+  
+  .subcontainer4 { width: 100%;
+   height: 100%;
+   background: rgb(252, 161, 225) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 5;
+  grid-row-end: 17;
+  
+  
+  }
+  
+  .subcontainer5 { width: 50%;
+   height: 100%;
+   margin-left: 50%;
+   background: rgb(129, 173, 255) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   grid-column-start: 6;
+  grid-column-end: 7;
+  grid-row-start: 2;
+  grid-row-end: 17;
+  
+  
+  }
+  
+  .subcontainer6 { width: 50%;
+   height: 100%;
+   margin-left: 50%;
+   background: rgb(253, 255, 162) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   grid-column-start: 6;
+  grid-column-end: 7;
+  grid-row-start: 18;
+  grid-row-end: 23;
+  
+  
+  }
+  
+  .subcontainerOficina { width: 20%;
+    height: 20%;
+    margin-left: 50%;
+    grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 22;
+  grid-row-end: 24;
+  background:  rgb(44, 65, 255) ;
+  /*border: 2px solid;
+  border-radius: 5px;*/
+  }
+  
+  .subcontainer7 { width: 100%;
+   height: 100%;
+   background: rgb(131, 250, 180) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 18;
+  grid-row-end: 21;
+  
+  
+  }
+  
+  .subcontainer8 { width: 100%;
+   height: 100%;
+   background: rgb(131, 250, 180) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 20;
+  grid-row-end: 21;
+  
+  
+  }
+  .subcontainer9 { width: 100%;
+   height: 100%;
+   background: rgb(131, 250, 180) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+   grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 22;
+  grid-row-end: 23;
+  
+  
+  }
+         
+  
+              }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /******************************************************************************************************************************
+  *******************************************************************************************************************************
+  *******************************************************************************************************************************
+  ******************************************************************************************************************************/
+  @media screen and (max-width:595px)
+  
+  
+  { 
+    .container{ width: 100%;
+      
+        height: 890px;
+        background-color: rgb(255, 255, 255);
+        padding: 6px;
+       display: grid;
+       grid-template-columns: repeat(6, 1fr);
+       grid-template-rows: repeat(22, 1fr);
+       justify-content: center
+   ;
+   align-items: center;
+      
+        }
+  
+    
+   .subcontainer1 { width: 100%;
+                height: 80%;
+                
+                background: rgb(255, 209, 156) ;
+              border: 2px solid;
+              border-radius: 5px;
+                margin: auto;
+   grid-column-start: 4;
+   grid-column-end: 5;
+   grid-row-start: 1;
+   grid-row-end: 2;}
+   
+              
+  
+  
+  .subcontainer2 { width: 100%;
+   height: 100%;
+   background: rgb(255, 202, 251) ;
+              border: 2px solid;
+              border-radius: 5px;
+  
+  padding: 2%;
+  grid-column-start: 2;
+   grid-column-end: 4;
+   grid-row-start: 2;
+   grid-row-end: 4;
+  
+   
+  }
+  
+  
+  
+  .subcontainer3 {  width: 60%;
+   height: 100%;
+   background: rgb(253, 255, 162) ;
+              border: 2px solid;
+              border-radius: 5px;
+  
+  grid-column-start: 1;
+   grid-column-end: 2;
+   grid-row-start: 2;
+   grid-row-end: 23;
+  
+   }
+  
+      
+      .subcontainer4 { width: 100%;
+       height: 100%;
+       
+       grid-column-start: 2;
+   grid-column-end: 5;
+   grid-row-start: 5;
+   grid-row-end: 17;
+   background: rgb(252, 161, 225) ;
+   border: 2px solid;
+   border-radius: 5px;
+      
+    }
+  
+    .subcontainer5 { width: 50%;
+       height: 100%;
+       margin-left: 50%;
+       
+       grid-column-start: 6;
+   grid-column-end: 7;
+   grid-row-start: 2;
+   grid-row-end: 17;
+   background: rgb(129, 173, 255) ;
+              border: 2px solid;
+              border-radius: 5px;
+      
+    }
+  
+    .subcontainer6 { width: 50%;
+       height: 100%;
+       margin-left: 50%;
+       grid-column-start: 6;
+   grid-column-end: 7;
+   grid-row-start: 18;
+   grid-row-end: 23;
+   background: rgb(253, 255, 162) ;
+   border: 2px solid;
+   border-radius: 5px;
+    }
+  
+    .subcontainerOficina { width: 20%;
+      height: 20%;
+      margin-left: 50%;
+      grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 22;
+  grid-row-end: 24;
+  background:  rgb(44, 65, 255) ;
+  /*border: 2px solid;
+  border-radius: 5px;*/
+   }
+  
+    .subcontainer7 { width: 100%;
+       height: 100%;
+       grid-column-start: 2;
+       grid-column-end: 5;
+       grid-row-start: 18;
+       grid-row-end: 21;
+   background: rgb(131, 250, 180) ;
+   border: 2px solid;
+   border-radius: 5px;
+      
+    }
+  
+    .subcontainer8 { width: 100%;
+       height: 100%;
+       grid-column-start: 2;
+   grid-column-end: 5;
+   grid-row-start: 19;
+   grid-row-end: 21;
+   background: rgb(131, 250, 180) ;
+              border: 2px solid;
+              border-radius: 5px;
+      
+    }
+    .subcontainer9 { width: 100%;
+       height: 100%;
+       grid-column-start: 2;
+   grid-column-end: 5;
+   grid-row-start: 22;
+   grid-row-end: 23;
+   background: rgb(131, 250, 180) ;
+              border: 2px solid;
+              border-radius: 5px;
+      
+    }
+         
+  
+              }
+  
+  
+  
+  
+  
+  
+  /******************************************************************************************************************************
+  *******************************************************************************************************************************
+  *******************************************************************************************************************************
+  ******************************************************************************************************************************/
+        
+  @media screen and (max-width:440px)
+  
+  
+  { 
+    .container{ width: 100%;
+      
+               height: 590px;
+               background-color: rgb(255, 255, 255);
+              display: grid;
+              grid-template-columns: repeat(6, 1fr);
+              grid-template-rows: repeat(22, 1fr);
+              justify-content: center
+          ;
+          align-items: center;
+             
+               }
+  
+           
+          .subcontainer1 { width: 100%;
+                       height: 80%;
+                       
+                       background: rgb(255, 209, 156) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+                       margin: auto;
+          grid-column-start: 4;
+          grid-column-end: 5;
+          grid-row-start: 1;
+          grid-row-end: 2;}
+          
+                     
+  
+  
+         .subcontainer2 { width: 100%;
+          height: 100%;
+          background: rgb(255, 202, 251) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+         
+         padding: 2%;
+         grid-column-start: 2;
+          grid-column-end: 4;
+          grid-row-start: 2;
+          grid-row-end: 4;
+         
+          
+         }
+   
+  
+  
+      .subcontainer3 {  width: 60%;
+          height: 100%;
+          background: rgb(253, 255, 162) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+         
+         grid-column-start: 1;
+          grid-column-end: 2;
+          grid-row-start: 2;
+          grid-row-end: 23;
+         
+          }
+       
+             
+             .subcontainer4 { width: 100%;
+              height: 100%;
+              
+              grid-column-start: 2;
+          grid-column-end: 5;
+          grid-row-start: 5;
+          grid-row-end: 17;
+          background: rgb(252, 161, 225) ;
+          border: 2px solid;
+          border-radius: 5px;
+             
+           }
+      
+           .subcontainer5 { width: 50%;
+              height: 100%;
+              margin-left: 50%;
+              
+              grid-column-start: 6;
+          grid-column-end: 7;
+          grid-row-start: 2;
+          grid-row-end: 17;
+          background: rgb(129, 173, 255) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+             
+           }
+  
+           .subcontainer6 { width: 50%;
+              height: 100%;
+              margin-left: 50%;
+              grid-column-start: 6;
+          grid-column-end: 7;
+          grid-row-start: 18;
+          grid-row-end: 23;
+          background: rgb(253, 255, 162) ;
+          border: 2px solid;
+          border-radius: 5px;
+           }
+  
+           .subcontainerOficina { width: 20%;
+            height: 20%;
+            margin-left: 50%;
+            grid-column-start: 5;
+        grid-column-end: 7;
+        grid-row-start: 22;
+        grid-row-end: 24;
+        background:  rgb(44, 65, 255) ;
+        /*border: 2px solid;
+        border-radius: 5px;*/
+         }
+  
+           .subcontainer7 { width: 100%;
+              height: 100%;
+              grid-column-start: 2;
+          grid-column-end: 5;
+          grid-row-start: 18;
+          grid-row-end: 21;
+          background: rgb(131, 250, 180) ;
+          border: 2px solid;
+          border-radius: 5px;
+             
+           }
+  
+           .subcontainer8 { width: 100%;
+              height: 100%;
+              grid-column-start: 2;
+          grid-column-end: 5;
+          grid-row-start: 20;
+          grid-row-end: 21;
+          background: rgb(131, 250, 180) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+             
+           }
+           .subcontainer9 { width: 100%;
+              height: 100%;
+              grid-column-start: 2;
+          grid-column-end: 5;
+          grid-row-start: 22;
+          grid-row-end: 23;
+          background: rgb(131, 250, 180) ;
+                     border: 2px solid;
+                     border-radius: 5px;
+             
+           }
+  
+              }
+  
+     /******************************************************************************************************************************
+  *******************************************************************************************************************************
+  *******************************************************************************************************************************
+  ******************************************************************************************************************************/
+  
+  @media screen and (max-width: 425px)
+  
+  
+  { 
+    .container{ width: 100%;
+      
+        height: 590px;
+        background-color: rgb(255, 255, 255);
+       display: grid;
+       grid-template-columns: repeat(6, 1fr);
+       grid-template-rows: repeat(22, 1fr);
+       justify-content: center
+   ;
+   align-items: center;
+      
+        }
+  
+    
+   .subcontainer1 { width: 100%;
+                height: 80%;
+                
+                background: rgb(255, 209, 156) ;
+              border: 2px solid;
+              border-radius: 5px;
+                margin: auto;
+   grid-column-start: 4;
+   grid-column-end: 5;
+   grid-row-start: 1;
+   grid-row-end: 2;}
+   
+              
+  
+  
+  .subcontainer2 { width: 100%;
+   height: 100%;
+   background: rgb(255, 202, 251) ;
+              border: 2px solid;
+              border-radius: 5px;
+  
+  padding: 2%;
+  grid-column-start: 2;
+   grid-column-end: 4;
+   grid-row-start: 2;
+   grid-row-end: 4;
+  
+   
+  }
+  
+  
+  
+  .subcontainer3 {  width: 60%;
+   height: 100%;
+   background: rgb(253, 255, 162) ;
+              border: 2px solid;
+              border-radius: 5px;
+  
+  grid-column-start: 1;
+   grid-column-end: 2;
+   grid-row-start: 2;
+   grid-row-end: 23;
+  
+   }
+  
+      
+      .subcontainer4 { width: 100%;
+       height: 100%;
+       
+       grid-column-start: 2;
+   grid-column-end: 5;
+   grid-row-start: 5;
+   grid-row-end: 17;
+   background: rgb(252, 161, 225) ;
+   border: 2px solid;
+   border-radius: 5px;
+      
+    }
+  
+    .subcontainer5 { width: 50%;
+       height: 100%;
+       margin-left: 50%;
+       
+       grid-column-start: 6;
+   grid-column-end: 7;
+   grid-row-start: 2;
+   grid-row-end: 17;
+   background: rgb(129, 173, 255) ;
+              border: 2px solid;
+              border-radius: 5px;
+      
+    }
+  
+    .subcontainer6 { width: 50%;
+       height: 100%;
+       margin-left: 50%;
+       grid-column-start: 6;
+   grid-column-end: 7;
+   grid-row-start: 18;
+   grid-row-end: 23;
+   background: rgb(253, 255, 162) ;
+   border: 2px solid;
+   border-radius: 5px;
+    }
+  
+    .subcontainerOficina { width: 20%;
+      height: 20%;
+      margin-left: 50%;
+      grid-column-start: 5;
+  grid-column-end: 7;
+  grid-row-start: 22;
+  grid-row-end: 24;
+  background:  rgb(44, 65, 255) ;
+  /*border: 2px solid;
+  border-radius: 5px;*/
+   }
+  
+    .subcontainer7 { width: 100%;
+       height: 100%;
+       grid-column-start: 2;
+   grid-column-end: 5;
+   grid-row-start: 18;
+   grid-row-end: 21;
+   background: rgb(131, 250, 180) ;
+   border: 2px solid;
+   border-radius: 5px;
+      
+    }
+  
+    .subcontainer8 { width: 100%;
+       height: 100%;
+       grid-column-start: 2;
+   grid-column-end: 5;
+   grid-row-start: 20;
+   grid-row-end: 21;
+   background: rgb(131, 250, 180) ;
+              border: 2px solid;
+              border-radius: 5px;
+      
+    }
+    .subcontainer9 { width: 100%;
+       height: 100%;
+       grid-column-start: 2;
+   grid-column-end: 5;
+   grid-row-start: 22;
+   grid-row-end: 23;
+   background: rgb(131, 250, 180) ;
+              border: 2px solid;
+              border-radius: 5px;
+      
+    }
+              }
+  
+  #crown{
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 3;
+    grid-row-end: 4;
+     
+  
+     
+    -webkit-animation:spin 8s linear infinite;
+    -moz-animation:spin 8s linear infinite;
+    animation:spin 4s linear infinite;
+  }
+  @-moz-keyframes spin { 10% { -moz-transform: rotate(360deg); } }
+  @-webkit-keyframes spin { 10% { -webkit-transform: rotate(160deg);  } }
+  @keyframes spin { 10% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+  
+  #crown{
+    transform: scale(2, 2);
+  }
