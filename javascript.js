@@ -82,7 +82,7 @@ else {  a1.style.marginLeft= '10px';
         
      };
 
-if (  getin!="2411" & getin!="3057" & getin!="4087"
+if (   getin!="3057" & getin!="4087"
     &  getin!="1550" & getin!="3431" & getin!="1332"
     &  getin!="2401"  &  getin!="4683"
 )  
@@ -416,7 +416,7 @@ else {
       a13.innerHTML = getin;
      };*/
 
-if (  getin!="2228"  & getin!="1550"  &  getin!="1426" &  getin!="1450" & getin!="2228" & 
+if (   getin!="1550"  &  getin!="1426" &  getin!="1450" & 
       getin!="1434" & getin!="4221" & getin!="1441" & getin!="2700" & getin!="2600" 
         & getin!="1004" & getin!="850" & getin!="851" & getin!="1328" & getin!="2007" & getin!="1203" 
       )
@@ -618,7 +618,7 @@ else { alert('Frente Oficina');
 if (   getin!="1151" 
       & getin!="1122" & getin!="1327" & getin!="1074" & getin!="2020" 
       & getin!="4050"  & getin!="4106" & getin!="1590" & getin!="1093"
-      & getin!="2539" & getin!="4086"
+      & getin!="2539" & getin!="4086" & getin!="2228"
         )
  
 { }
@@ -715,7 +715,7 @@ else {
 if (  getin!="1490" & getin!="3095" & getin!="1088"  
        &  getin!="1128" & getin!="2531" &
        getin!="1105" & getin!="1103" & getin!="3809"  
-       &  getin!="1005"  &  getin!="2604"  
+         &  getin!="2604"  
       )
  
 { }
@@ -732,7 +732,7 @@ else {
      };
 
 if (    
-          getin!="2021" & getin!="1005" & getin!="1103"  
+          getin!="2021" & getin!="1005" & getin!="1103" & getin!="2411"   
        )
  
 { }
