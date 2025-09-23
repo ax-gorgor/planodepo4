@@ -130,7 +130,7 @@ else {
 
      if ( getin!="1314"  
       & getin!="1133" & getin!="2404"
-      & getin!="1340" & getin!="1550" & getin!="2603"
+      & getin!="1340" & getin!="1550" 
       
      )  
  
@@ -580,7 +580,7 @@ else {
 
 if (  getin!="1544" & getin!="1152" & getin!="2085"  
       & getin!="1150" & getin!="4137" & getin!="1400" & getin!="1402"
-      & getin!="camisola" & getin!="1071" 
+      & getin!="camisola" & getin!="1071" & getin!="2603" 
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="CAMISOLA"
            
       )
