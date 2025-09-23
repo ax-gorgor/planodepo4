@@ -192,7 +192,7 @@ else {
       };
 
       if (getin!="2309" & getin!="1135" & getin!="2401" & getin!="2544"
-            & getin!="1438" & getin!="1018" & getin!="2805"
+            & getin!="1438" & getin!="1018" & getin!="2805" & getin!="1138"
       )  
  
       { }
@@ -580,22 +580,22 @@ else {
 
 if (  getin!="1544" & getin!="1152" & getin!="2085"  
       & getin!="1150" & getin!="4137" & getin!="1400" & getin!="1402"
-      & getin!="camisola"  
+      & getin!="camisola" & getin!="1071" 
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="CAMISOLA"
            
       )
 
 { }
                      
-else { alert('Frente Oficina'); 
+else { alert('Oficina / Negocio'); 
       /*a18.style.background= 'white';
       a18.style.border= '1px solid red';
       a18.innerHTML = getin;*/
       a18.style.marginLeft= '-30px';
       a18.style.color= 'black';
-      a18.style.fontSize= '28px';
+      a18.style.fontSize= '18px';
       a18.innerHTML = getin;
-      a18.innerHTML = 'Frente Oficina';
+      a18.innerHTML = 'Oficina / Negocio';
       a18.style.marginTop= '-60px';
       a18.style.marginLeft= '-48px';
        
