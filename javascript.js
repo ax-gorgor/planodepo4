@@ -714,7 +714,7 @@ else {
 
 if (  getin!="1490" & getin!="3095" & getin!="1088"  
        &  getin!="1128" & getin!="2531" &
-       getin!="1105" & getin!="1103" & getin!="3809"  
+       getin!="1105" & getin!="1103" 
          &  getin!="2604"  
       )
  
@@ -835,7 +835,7 @@ else {
 
     if (getin!="2412"  & getin!="1068" 
          
-       & getin!="3155" & getin!="4011" & getin!="3811" 
+       & getin!="3155" & getin!="4011" & getin!="3811" & getin!="3809" 
       & getin!="3386" & getin!="3309" & getin!="1798" 
       & getin!="3539" & getin!="1091" & getin!="3086" 
     )
