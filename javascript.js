@@ -259,7 +259,7 @@ else {
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
 if (   getin!="2535" & getin!="9002" & getin!="1683" & getin!="1055"
-       & getin!="1701" & getin!="9126" & getin!="3320" )  
+       & getin!="9126" & getin!="3320" )  
 
 { }
 
@@ -374,7 +374,7 @@ else {
 if (   getin!="1057" & getin!="1320"
         & getin!="3323" 
       & getin!="1324"  & getin!="4019"  
-       & getin!="1431"  
+       & getin!="1431" &   getin!="2517"
         & getin!="1434"  & getin!="2230"  & getin!="2526" 
        & getin!="1433"   &   getin!="2525" &   getin!="2812"
        )
@@ -641,7 +641,7 @@ else {
 if (  getin!="3860" & getin!="1421" & getin!="2402" & getin!="1069" & getin!="1077"
        & getin!="1315" & getin!="1313" & getin!="1788" & getin!="1435"
        & getin!="2017" & getin!="1156" & getin!="1173" & getin!="2014" 
-       & getin!="2813" 
+       & getin!="2813" & getin!="1066" & getin!="1068" 
       )
  
 { }
@@ -677,8 +677,8 @@ else {
 
 if (  getin!="1322" & getin!="2332" & getin!="1500" & getin!="1321"
         & getin!="3850" & getin!="3090" & getin!="3421"
-          & getin!="4050"  
-        & getin!="2515" & getin!="1106" & getin!="1101")
+          & getin!="4050" & getin!="4050"  
+        & getin!="2515"  & getin!="1101")
 
       
  
@@ -747,10 +747,10 @@ else {
       a150.style.transform = 'scale(1.4)';
     };
 
-    if (   getin!="1700" &     
+    if (getin!="1700" &     
         getin!="2615"  &  getin!="3002" & getin!="1436" & getin!="2011" 
       & getin!="3011" & getin!="4155" & getin!="2010" & getin!="1708" &  getin!="1050" 
-       & getin!="1072" & getin!="1702" & getin!="1102" &  getin!="1442"   )
+       & getin!="1072" & getin!="1702" & getin!="1102" &  getin!="1442" &  getin!="1701")
  
     { }
                                
@@ -767,7 +767,7 @@ else {
 
 if (   getin!="1159" & getin!="1084" & getin!="1109"   
       & getin!="1710"  & getin!="1786" & getin!="3851" & getin!="4077"
-      & getin!="1143" )
+      & getin!="1143" & getin!="1106" )
  
 { }
                                    
@@ -837,7 +837,7 @@ else {
          
        & getin!="3155" & getin!="4011" & getin!="3811" & getin!="3809" 
       & getin!="3386" & getin!="3309" & getin!="1798" 
-      & getin!="3539" & getin!="1091" & getin!="3086" 
+      & getin!="3539" & getin!="1091" & getin!="3086" & getin!="3855" 
     )
  
     { }
