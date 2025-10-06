@@ -82,7 +82,7 @@ else {  a1.style.marginLeft= '10px';
         
      };
 
-if (   getin!="3057" & getin!="4087"
+if (   getin!="3057" & getin!="4087" &  getin!="2550"
     &  getin!="1550" & getin!="3431" & getin!="1332"
     &  getin!="2401"  &  getin!="4683"
 )  
@@ -237,7 +237,7 @@ else {
        
 
         if ( getin!="1013" & getin!="3015" &  
-              getin!="2532" & getin!="9001"  
+              getin!="2532" & getin!="9001" & getin!="3221"   
         )  
 
         { }
@@ -531,7 +531,7 @@ if (    getin!="1201" & getin!="1323"
         & getin!="2560" & getin!="1427" & getin!="2508" 
         &  getin!="2507" & getin!="1304" & getin!="1310" & getin!="1129" 
         & getin!="1137" & getin!="1498" & getin!="1865"
-        & getin!="3209" & getin!="3435" & getin!="2550" 
+        & getin!="3209" & getin!="3435" 
       )
  
          { }
