@@ -40,10 +40,12 @@ var b12 = document.getElementById('b12');
 var b13 = document.getElementById('b13');
 var b14 = document.getElementById('b14');
 var b15 = document.getElementById('b15');
- 
+ var hideFlag = document.getElementById('hideFlag');
  
 
 var getin = prompt ('Poné el artículo')
+
+
  
 // MESA PRINCIPAL DERECHA 1 PRINCIPIO //
 
@@ -310,7 +312,8 @@ if (  getin!="1305" & getin!="2536" & getin!="2540" & getin!="2538")
 
 { }
                     
-else { b3.style.marginLeft= '10px';
+else {
+      b3.style.marginLeft= '10px';
       b3.style.color= 'black';
       b3.style.fontSize= '24px';
       b3.style.padding= '12px';
@@ -381,7 +384,7 @@ if (   getin!="1057" & getin!="1320"
  
 { }
             
- else { 
+ else { hideFlag.style.width= '5px'; 
      /* a11.style.background= 'white';
       a11.style.border= '1px solid red';
       a11.innerHTML = getin;*/
@@ -580,7 +583,7 @@ else {
 
 if (  getin!="1544" & getin!="1152" & getin!="2085"  
       & getin!="1150" & getin!="4137" & getin!="1400" & getin!="1402"
-      & getin!="camisola" & getin!="1071" & getin!="2603" 
+      & getin!="camisola" & getin!="1071" & getin!="2603" & getin!="4057"  
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="CAMISOLA"
            
       )
@@ -641,7 +644,7 @@ else {
 if (  getin!="3860" & getin!="1421" & getin!="2402" & getin!="1069" & getin!="1077"
        & getin!="1315" & getin!="1313" & getin!="1788" & getin!="1435"
        & getin!="2017" & getin!="1156" & getin!="1173" & getin!="2014" 
-       & getin!="2813" & getin!="1066" & getin!="1068" 
+       & getin!="2813" & getin!="1066" & getin!="1068" & getin!="3050"
       )
  
 { }
