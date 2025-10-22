@@ -377,7 +377,7 @@ else {
 if (   getin!="1057" & getin!="1320"
         & getin!="3323" & getin!="2527"
       & getin!="1324"  & getin!="4019"  
-       & getin!="1431" &   getin!="2517"
+       & getin!="1431" &   getin!="2517" &   getin!="2517"
         & getin!="1434"  & getin!="2230"  & getin!="2526" 
        & getin!="1433"   &   getin!="2525" &   getin!="2812"
        )
