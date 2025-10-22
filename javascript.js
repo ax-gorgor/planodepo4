@@ -384,7 +384,7 @@ if (   getin!="1057" & getin!="1320"
  
 { }
             
- else { hideFlag.style.width= '5px'; 
+ else { 
      /* a11.style.background= 'white';
       a11.style.border= '1px solid red';
       a11.innerHTML = getin;*/
