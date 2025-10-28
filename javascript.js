@@ -239,7 +239,7 @@ else {
        
 
         if ( getin!="1013" & getin!="3015" &  
-              getin!="2532" & getin!="9001" & getin!="3221"   
+              getin!="2532" & getin!="9001" 
         )  
 
         { }
@@ -492,7 +492,7 @@ else { alert('ESTANTERIA ARRIBA');
          };*/
 
 if ( getin!="2223" & getin!="1328" & getin!="1323"
-& getin!="4323"  & getin!="3350" & getin!="2632"
+& getin!="4323"  & getin!="3350" & getin!="2632" & getin!="3434"  
 & getin!="3223" & getin!="2000"   & getin!="4328" & getin!="2209"  
 & getin!="2543" & getin!="1602" & getin!="1085" & getin!="1462" 
 )
@@ -583,7 +583,7 @@ else {
 
 if (  getin!="1544" & getin!="1152" & getin!="2085"  
       & getin!="1150" & getin!="4137" & getin!="1400" & getin!="1402"
-      & getin!="camisola" & getin!="1071" & getin!="2603" & getin!="4057"  
+      & getin!="camisola" & getin!="1071" & getin!="2603" & getin!="4057" & getin!="3221"     
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="CAMISOLA"
            
       )
