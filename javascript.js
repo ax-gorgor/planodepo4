@@ -583,7 +583,7 @@ else {
 
 if (  getin!="1544" & getin!="1152" & getin!="2085"  
       & getin!="1150" & getin!="4137" & getin!="1400" & getin!="1402"
-      & getin!="camisola" & getin!="1071" & getin!="2603" & getin!="4057" & getin!="3221"     
+      & getin!="camisola" & getin!="1071" & getin!="2603" & getin!="3221"     
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="CAMISOLA"
            
       )
@@ -822,7 +822,7 @@ else {
 if (getin!="1001"  & getin!="2015" & getin!="2019"
       & getin!="3111" & getin!="2516" &
       getin!="1104" &
-      getin!="4085" &
+      getin!="4085" & getin!="4057" &
       getin!="1086" & getin!="2613"
 )
  
