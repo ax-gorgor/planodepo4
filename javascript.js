@@ -581,7 +581,7 @@ else {
       a17.style.transition = '1.5s';
 };
 
-if (  getin!="1544" & getin!="1152" & getin!="2085"  
+if (  getin!="1544" & getin!="1152" & getin!="2085" & getin!="1113"  
       & getin!="1150" & getin!="4137" & getin!="1400" & getin!="1402"
       & getin!="camisola" & getin!="1071" & getin!="2603" & getin!="3221"     
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="CAMISOLA"
