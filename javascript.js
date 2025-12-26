@@ -839,7 +839,7 @@ else {
     if (getin!="2412"  & getin!="1068" 
          
        & getin!="3155" & getin!="4011" & getin!="3811" & getin!="3809" 
-      & getin!="3386" & getin!="3309" & getin!="1798" & getin!="3137" 
+      & getin!="3386" & getin!="1676" & getin!="1798" & getin!="3137" 
       & getin!="3539" & getin!="1091" & getin!="3086" & getin!="3855" 
     )
  
