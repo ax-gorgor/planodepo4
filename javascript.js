@@ -871,7 +871,7 @@ else {
             };
     
 
-        if ( getin!="1420" 
+        if ( getin!="1420" & getin!="1211"  
             & getin!="1539"  
         )
  
