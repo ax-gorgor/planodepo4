@@ -823,7 +823,7 @@ if (getin!="1001"  & getin!="2015" & getin!="2019"
       & getin!="3111" & getin!="2516" &
       getin!="1104" & getin!="4137" &
       getin!="4085" & getin!="4057" &
-      getin!="1086" & getin!="2613" & getin!="1150"
+      getin!="1086" & getin!="2613" 
 )
  
 { }
@@ -858,7 +858,7 @@ else {
 
 // ESTANTERIA OFICINA 3 PRINCIPIO //
 
-        if (getin!="1126" & getin!="4309" )
+        if (getin!="1126" & getin!="4309" & getin!="1150" )
  
         { }
                                            
