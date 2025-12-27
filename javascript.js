@@ -750,7 +750,7 @@ else {
       a150.style.transform = 'scale(1.4)';
     };
 
-    if (getin!="1700" & getin!="1702" &     
+    if (getin!="1700" & getin!="1702" & getin!="3539" &   
         getin!="2615"  &  getin!="100" & getin!="1436" & getin!="2011" 
       & getin!="3011" & getin!="4155" & getin!="2010" & getin!="1708" &  getin!="1050" 
         & getin!="1102" &  getin!="1442" &  getin!="1701")
@@ -840,7 +840,7 @@ else {
          
        & getin!="3155" & getin!="4011" & getin!="3811" & getin!="3809" 
       & getin!="3386" & getin!="1676" & getin!="1798" & getin!="3137" 
-      & getin!="3539" & getin!="1091" & getin!="3086" & getin!="3855" 
+      & getin!="1050" & getin!="1091" & getin!="3086" & getin!="3855" 
     )
  
     { }
