@@ -352,7 +352,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 
 //// ESTANTERIA DERECHA PRINCIPIO //
 
-if (  getin!="2230"  & getin!="1057"  
+if (  getin!="2230"    
        & getin!="2577" & getin!="2519"
     )
  
@@ -374,7 +374,7 @@ else {
       
       };
 
-if (   getin!="1057" & getin!="1320"
+if (   getin!="2412" & getin!="1320"
         & getin!="3323" & getin!="2527"
       & getin!="1324"  & getin!="4019"  
        & getin!="1431" &   getin!="2517" &   getin!="2517"
@@ -836,7 +836,7 @@ else {
       c10.innerHTML = getin;
     };
 
-    if (getin!="2412"  & getin!="1068" 
+    if (getin!="1057"  & getin!="1068" 
          
        & getin!="3155" & getin!="4011" & getin!="3811" & getin!="3809" 
       & getin!="3386" & getin!="1676" & getin!="1798" & getin!="3137" 
