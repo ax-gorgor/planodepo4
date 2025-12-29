@@ -768,9 +768,9 @@ else {
 // ESTANTERIA IZQUIERDA FIN //
 
 
-if (   getin!="1159" & getin!="1084" & getin!="1109"   
+if (   getin!="1159" & getin!="1084"   
       & getin!="1710"  & getin!="1786" & getin!="3851" & getin!="4077"
-      & getin!="1143" & getin!="1106" )
+      & getin!="1143"  & getin!="1150"  )
  
 { }
                                    
@@ -819,7 +819,7 @@ else {
 
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
-if (getin!="1001"  & getin!="2015" & getin!="2019"
+if (getin!="1001"  & getin!="2015" & getin!="1106" & getin!="1109" 
       & getin!="3111" & getin!="2516" &
       getin!="1104" & getin!="4137" &
       getin!="4085" & getin!="4057" &
@@ -858,7 +858,7 @@ else {
 
 // ESTANTERIA OFICINA 3 PRINCIPIO //
 
-        if (getin!="1126" & getin!="4309" & getin!="1150" )
+        if (getin!="1126" & getin!="4309" & getin!="2019" )
  
         { }
                                            
