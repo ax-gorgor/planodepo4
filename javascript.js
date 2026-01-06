@@ -619,7 +619,7 @@ else { alert('Oficina / Negocio');
 
 
 if (   getin!="1151" 
-      & getin!="1122" & getin!="1327" & getin!="1074" & getin!="2020" 
+      & getin!="1122" & getin!="1327"  & getin!="2020" 
       & getin!="4050"  & getin!="4106" & getin!="1590" & getin!="1093"
       & getin!="2539" & getin!="4086" & getin!="2228"
         )
@@ -679,7 +679,7 @@ else {
      };
 
 if (  getin!="1322" & getin!="2332" & getin!="1500" & getin!="1321"
-       & getin!="3090" & getin!="3421"
+       & getin!="3090" & getin!="3421" & getin!="1074"
           & getin!="4050" & getin!="4050"  
         & getin!="2515"  & getin!="1101")
 
