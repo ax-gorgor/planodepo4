@@ -620,7 +620,7 @@ else { alert('Oficina / Negocio');
 
 if (   getin!="1151" 
       & getin!="1122" & getin!="1327"  & getin!="2020" 
-      & getin!="4050"  & getin!="4106" & getin!="1590" & getin!="1093"
+        & getin!="4106" & getin!="1590" & getin!="1093"
       & getin!="2539" & getin!="4086" & getin!="2228"
         )
  
