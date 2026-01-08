@@ -715,10 +715,10 @@ else {
 
 
 
-if (  getin!="1490" & getin!="3095" & getin!="1088"  
+if (  getin!="1490" & getin!="3095" & getin!="1088"   
        &  getin!="1128" & getin!="2531" &
-       getin!="1105" & getin!="1103" & getin!="3050"
-         &  getin!="2604"  
+       getin!="1105" & getin!="1103" & getin!="3050"  
+         
       )
  
 { }
@@ -735,7 +735,7 @@ else {
      };
 
 if (    
-          getin!="2021" & getin!="1005" & getin!="1103" & getin!="2411"   
+          getin!="2021" & getin!="1005" & getin!="1103" & getin!="2411" & getin!="2019" & getin!="1211"    
        )
  
 { }
@@ -858,7 +858,7 @@ else {
 
 // ESTANTERIA OFICINA 3 PRINCIPIO //
 
-        if (getin!="1126" & getin!="4309" & getin!="2019" )
+        if (getin!="1126" & getin!="4309")
  
         { }
                                            
@@ -871,8 +871,8 @@ else {
             };
     
 
-        if ( getin!="1420" & getin!="1211"  
-            & getin!="1539"  
+        if ( getin!="1420"  
+            & getin!="1539" &  getin!="2604"  
         )
  
     { }
