@@ -352,7 +352,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 
 //// ESTANTERIA DERECHA PRINCIPIO //
 
-if (  getin!="2230"    
+if (  getin!="2230" & getin!="1086" 
        & getin!="2577" & getin!="2519"
     )
  
@@ -375,10 +375,10 @@ else {
       };
 
 if (   getin!="2412" & getin!="1320"
-        & getin!="3323" & getin!="2527"
+        & getin!="3323" 
       & getin!="1324"  & getin!="4019"  
        & getin!="1431" &   getin!="2517" &   getin!="2517"
-        & getin!="1434"  & getin!="2230"  & getin!="2526" 
+        & getin!="1434"  & getin!="2230"  
        & getin!="1433"   &   getin!="2525" &   getin!="2812"
        )
  
@@ -583,7 +583,7 @@ else {
 
 if (  getin!="1544" & getin!="1152" & getin!="1113"  
       & getin!="1400" & getin!="1402"
-      & getin!="camisola" & getin!="1071" & getin!="2603" & getin!="3221"     
+      & getin!="camisola" & getin!="1071" & getin!="2603"     
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="CAMISOLA"
            
       )
@@ -680,8 +680,7 @@ else {
 
 if (  getin!="1322" & getin!="2332" & getin!="1500" & getin!="1321"
        & getin!="3090" & getin!="3421" & getin!="1074"
-          & getin!="4050" & getin!="4050"  
-        & getin!="2515"  & getin!="1101")
+          & getin!="4050" & getin!="4050"&  getin!="2515" & getin!="1101")
 
       
  
@@ -735,7 +734,8 @@ else {
      };
 
 if (    
-          getin!="2021" & getin!="1005" & getin!="1103" & getin!="2411" & getin!="2019" & getin!="1211"    
+          getin!="2021" & getin!="1005" & getin!="1103" & getin!="2527" 
+          & getin!="2411" & getin!="2019" & getin!="1211"    
        )
  
 { }
@@ -750,7 +750,7 @@ else {
       a150.style.transform = 'scale(1.4)';
     };
 
-    if (getin!="1700" & getin!="1702" & getin!="3539" &  getin!="1084" &
+    if (getin!="1700" & getin!="1702" & getin!="3539" &  getin!="1084" & getin!="3221" & getin!="----" &
         getin!="2615"  &  getin!="100" & getin!="1436" & getin!="2011" & getin!="1143" & getin!="1150" 
       & getin!="3011" & getin!="4155" & getin!="2010" & getin!="1159"  & getin!="1708" &  getin!="1050" 
         & getin!="1102" &  getin!="1442" &  getin!="1701" & getin!="1156")
@@ -821,9 +821,8 @@ else {
 
 if (getin!="1001"  & getin!="2015" & getin!="1106" & getin!="1109" 
       & getin!="3111" & getin!="2516" &
-      getin!="1104" & getin!="4137" &
-      getin!="4085" & getin!="4057" &
-      getin!="1086" & getin!="2613" & getin!="1122"
+      getin!="1104" & getin!="4137" & getin!="2526" & 
+      getin!="4085" & getin!="4057" & getin!="2613" & getin!="1122"
 )
  
 { }
