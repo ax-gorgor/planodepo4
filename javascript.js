@@ -194,7 +194,7 @@ else {
       };
 
       if (getin!="2309" & getin!="1135" & getin!="2401" & getin!="2544"
-            & getin!="1438" & getin!="1018" & getin!="2805" & getin!="1138"
+            & getin!="1438" & getin!="1018" & getin!="2805"  
       )  
  
       { }
@@ -239,7 +239,7 @@ else {
        
 
         if ( getin!="1013" & getin!="3015" & getin!="1675" &
-              getin!="2532" & getin!="9001" & getin!="3860"  
+              getin!="2532" & getin!="3860"  
         )  
 
         { }
@@ -260,7 +260,7 @@ else {
 
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
-if (   getin!="2535" & getin!="9002" & getin!="1683" & getin!="1055"
+if (   getin!="2535" & getin!="1683" & getin!="1055"
        & getin!="9126" & getin!="3320"& getin!="2085" )  
 
 { }
@@ -534,7 +534,7 @@ if (    getin!="1201" & getin!="1323"
         & getin!="2560" & getin!="1427" & getin!="2508" 
         &  getin!="2507" & getin!="1304" & getin!="1310" & getin!="1420" 
         & getin!="1137" & getin!="1498" & getin!="1865"
-        & getin!="3209" & getin!="3435" 
+        & getin!="3209" & getin!="3435" & getin!="1138" 
       )
  
          { }
@@ -581,8 +581,8 @@ else {
       a17.style.transition = '1.5s';
 };
 
-if (  getin!="1544" & getin!="1152" & getin!="1113"  
-      & getin!="1400" & getin!="1402" & getin!="3855"    
+if (  getin!="1152" & getin!="1113" & getin!="9001" 
+      & getin!="1400" & getin!="1402" & getin!="3855" & getin!="9002" & getin!="9012"     
       & getin!="camisola" & getin!="1071" & getin!="2603"     
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="CAMISOLA"
            
@@ -753,7 +753,7 @@ else {
     if (getin!="1700" & getin!="1702" & getin!="3539" &  getin!="1084" & getin!="3221" & getin!="----" &
         getin!="2615"  &  getin!="100" & getin!="1436" & getin!="2011" & getin!="1143" & getin!="1150" 
       & getin!="3011" & getin!="4155" & getin!="2010" & getin!="1159"  & getin!="1708" &  getin!="1050" 
-        & getin!="1102" &  getin!="1442" &  getin!="1701" & getin!="1156")
+        & getin!="1102" &  getin!="1442" &  getin!="1701" & getin!="1156" & getin!="1544")
  
     { }
                                
