@@ -491,7 +491,7 @@ else { alert('ESTANTERIA ARRIBA');
              a13.style.transition = '0.5s'
          };*/
 
-if ( getin!="2223" & getin!="1328" & getin!="1323"
+if ( getin!="2223" & getin!="1328" & getin!="1323" & getin!="2601"
 & getin!="4323"  & getin!="3350" & getin!="2632" & getin!="3434"  
 & getin!="3223" & getin!="2000"   & getin!="4328" & getin!="2209"  
 & getin!="2543" & getin!="1602" & getin!="1085" & getin!="1462" 
