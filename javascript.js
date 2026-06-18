@@ -584,7 +584,7 @@ else {
 if (  getin!="1152" & getin!="1113" & getin!="9001" 
       & getin!="1400" & getin!="1402" & getin!="3855" & getin!="9002" & getin!="9012"     
       & getin!="camisola" & getin!="1071" & getin!="2603"     
-      & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="CAMISOLA"
+      & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="1136"
            
       )
 
@@ -735,7 +735,7 @@ else {
 
 if (    
           getin!="2021" & getin!="1005" & getin!="1103" & getin!="2527" 
-          & getin!="2411" & getin!="2019" & getin!="1211"    
+          & getin!="2411" & getin!="2019" & getin!="1211" & getin!="1043"    
        )
  
 { }
