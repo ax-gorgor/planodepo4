@@ -194,7 +194,7 @@ else {
       };
 
       if (getin!="2309" & getin!="1135" & getin!="2401" & getin!="2544"
-            & getin!="1438" & getin!="1018" & getin!="2805"  
+            & getin!="1438" & getin!="1018" & getin!="2805" & getin!="1495"  
       )  
  
       { }
@@ -378,7 +378,7 @@ if (    getin!="1320"
         & getin!="3323" 
       & getin!="1324"  & getin!="4019"  &   getin!="1130"
        & getin!="1431" &   getin!="2517" &   getin!="2517"
-        & getin!="1434"  & getin!="2230"  
+        & getin!="1434"  & getin!="2230"  & getin!="1602"
        & getin!="1433"   &   getin!="2525" &   getin!="2812"
        )
  
@@ -494,7 +494,7 @@ else { alert('ESTANTERIA ARRIBA');
 if ( getin!="2223" & getin!="1328" & getin!="1323" & getin!="2601"
 & getin!="4323"  & getin!="3350" & getin!="2632" & getin!="3434"  
 & getin!="3223" & getin!="2000"   & getin!="4328" & getin!="2209"  
-& getin!="2543" & getin!="1602" & getin!="1085" & getin!="1462" 
+& getin!="2543" & getin!="1085" & getin!="1462" 
 )
  
 { }
@@ -621,7 +621,7 @@ else { alert('Oficina / Negocio');
 if (   getin!="1151" 
        & getin!="1327"  & getin!="2020" 
         & getin!="4106" & getin!="1590" & getin!="1093"
-      & getin!="2539" & getin!="4086" & getin!="2228"
+      & getin!="2539"  & getin!="2228"
         )
  
 { }
@@ -839,7 +839,7 @@ else {
          
        & getin!="3155" & getin!="4011" & getin!="3811" & getin!="3809" 
       & getin!="3386" & getin!="1676" & getin!="1798" & getin!="3137" 
-      & getin!="1050" & getin!="1091"  
+      & getin!="1050" & getin!="1091" & getin!="4086"  
     )
  
     { }
