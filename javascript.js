@@ -326,7 +326,7 @@ else {
 
  
 if (getin!="9086" & getin!="2512"  & getin!="1072" 
-       & getin!="1087" & getin!="1308" & getin!="1490"
+       & getin!="1308" & getin!="1490"
        & getin!="3014" & getin!="3308")  
 
 { }
@@ -422,7 +422,7 @@ else {
 if (   getin!="1550"  &  getin!="1426" &  getin!="1450" & getin!="3850" & getin!="1311" & getin!="3851"
       &  getin!="1434" & getin!="4221" & getin!="1441" & getin!="2700" & getin!="2600" 
         & getin!="1004" & getin!="850" & getin!="851" & getin!="1328" & getin!="2007" & getin!="1203" 
-      & getin!="3490" )
+      & getin!="3490" & getin!="1677" & getin!="1087")
  
 { }
                  
