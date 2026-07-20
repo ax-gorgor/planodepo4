@@ -86,7 +86,7 @@ else {  a1.style.marginLeft= '10px';
 
 if (   getin!="3057" & getin!="4087" &  getin!="2550"
     &  getin!="1550" & getin!="3431" & getin!="1332"
-    &  getin!="2401"  &  getin!="4683" &  getin!="3350"
+    &  getin!="2401"  &  getin!="4683" & getin!="3350" & getin!="9015"
 )  
  
 { }
@@ -642,7 +642,7 @@ else {
       };
 
 if (   getin!="1421" & getin!="2402" & getin!="1069" & getin!="1077" & getin!="1071" 
-       & getin!="1315" & getin!="1313" & getin!="1788" & getin!="1435" & getin!="2821"
+         & getin!="1788" & getin!="1435" & getin!="2821"
        & getin!="2017"  & getin!="1173" & getin!="2014" & getin!="1330"
        & getin!="2813" & getin!="1066" & getin!="1068" 
       )
@@ -820,8 +820,8 @@ else {
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
 if (getin!="1001"  & getin!="2015" & getin!="1106" & getin!="1109" 
-      & getin!="3111" & getin!="2516" &
-      getin!="1104" & getin!="4137" & getin!="2526" & 
+      & getin!="3111" & getin!="2516" & getin!="1313" &
+      getin!="1104" & getin!="4137" & getin!="2526" & getin!="1315" &
       getin!="4085" & getin!="4057" & getin!="2613" & getin!="1122"
 )
  
