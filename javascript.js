@@ -261,7 +261,7 @@ else {
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
 if (   getin!="2535" & getin!="1683" & getin!="1055"
-       & getin!="9126" & getin!="3320"& getin!="2085" )  
+       & getin!="9126" &  getin!="2085" )  
 
 { }
 
@@ -325,8 +325,8 @@ else {
               
 
  
-if (getin!="9086" & getin!="2512"  & getin!="1072" 
-       & getin!="1308" & getin!="1490"
+if (getin!="9086" & getin!="2512" & getin!="1072" & getin!="1113" 
+       & getin!="1308" & getin!="1490" & getin!="1319" & getin!="9001"
        & getin!="3014" & getin!="3308")  
 
 { }
@@ -353,7 +353,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 //// ESTANTERIA DERECHA PRINCIPIO //
 
 if (  getin!="2230" & getin!="1086" 
-       & getin!="2577" & getin!="2519"
+       & getin!="2577" 
     )
  
 { }
@@ -420,9 +420,9 @@ else {
      };*/
 
 if (   getin!="1550"  &  getin!="1426" &  getin!="1450" & getin!="3850" & getin!="1311" & getin!="3851"
-      &  getin!="1434" & getin!="4221" & getin!="1441" & getin!="2700" & getin!="2600" 
-        & getin!="1004" & getin!="850" & getin!="851" & getin!="1328" & getin!="2007" & getin!="1203" 
-      & getin!="3490" & getin!="1677" & getin!="1087" & getin!="1429")
+      &  getin!="1434" & getin!="4221" & getin!="1441" & getin!="2700" & getin!="3320" & getin!="2575"
+        & getin!="1004" & getin!="850" & getin!="851" & getin!="1328" & getin!="2519" & getin!="1203" 
+      & getin!="3490" & getin!="1677" & getin!="1087" & getin!="1429" & getin!="2529")
  
 { }
                  
@@ -581,7 +581,7 @@ else {
       a17.style.transition = '1.5s';
 };
 
-if (  getin!="1152" & getin!="1113" & getin!="9001" 
+if (  getin!="1152" 
       & getin!="1400" & getin!="1402" & getin!="3855" & getin!="9002" & getin!="9012"     
       & getin!="camisola" & getin!="1071" & getin!="2603"     
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="1136"
@@ -641,7 +641,7 @@ else {
       a100.style.transition = '1.2s'
       };
 
-if (   getin!="1421" & getin!="2402" & getin!="1069" & getin!="1077" 
+if (   getin!="1421" & getin!="2402" & getin!="1069" & getin!="1077" & getin!="1071" 
        & getin!="1315" & getin!="1313" & getin!="1788" & getin!="1435" & getin!="2821"
        & getin!="2017"  & getin!="1173" & getin!="2014" & getin!="1330"
        & getin!="2813" & getin!="1066" & getin!="1068" 
