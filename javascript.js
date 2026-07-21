@@ -353,7 +353,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 //// ESTANTERIA DERECHA PRINCIPIO //
 
 if (  getin!="2230" & getin!="1086" 
-       & getin!="2577" 
+       & getin!="2577" & getin!="2531" 
     )
  
 { }
@@ -422,7 +422,7 @@ else {
 if (   getin!="1550"  &  getin!="1426" &  getin!="1450" & getin!="3850" & getin!="1311" & getin!="3851"
       &  getin!="1434" & getin!="4221" & getin!="1441" & getin!="2700" & getin!="3320" & getin!="2575"
         & getin!="1004" & getin!="850" & getin!="851" & getin!="1328" & getin!="2519" & getin!="1203" 
-      & getin!="3490" & getin!="1677" & getin!="1087" & getin!="1429" & getin!="2529")
+      & getin!="3490" & getin!="1677" & getin!="1429" & getin!="2529" & getin!="1376")
  
 { }
                  
@@ -583,7 +583,7 @@ else {
 
 if (  getin!="1152" 
       & getin!="1400" & getin!="1402" & getin!="3855" & getin!="9002" & getin!="9012"     
-      & getin!="camisola" & getin!="1071" & getin!="2603"     
+      & getin!="camisola" & getin!="2603" & getin!="1087"    
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="1136"
            
       )
@@ -715,7 +715,7 @@ else {
 
 
 if (   getin!="3095" & getin!="1088"   
-       &  getin!="1128" & getin!="2531" &
+       &  getin!="1128" & 
        getin!="1105" & getin!="1103" & getin!="3050"  
          
       )
@@ -840,7 +840,8 @@ else {
        & getin!="3155" & getin!="4011" & getin!="3811" & getin!="3809" 
       & getin!="3386" & getin!="1676" & getin!="1798" & getin!="3137" 
       & getin!="1050" & getin!="1091" & getin!="4086"  
-    )
+      & getin!="Pallazzo"  & getin!="PALLAZZO"  & getin!="pallazzo"  & getin!="Palazzo" 
+       & getin!="palazzo" & getin!="PALAZZO")
  
     { }
                                        
