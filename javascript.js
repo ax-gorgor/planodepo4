@@ -422,7 +422,7 @@ else {
 if (   getin!="1550"  &  getin!="1426" &  getin!="1450" & getin!="3850" & getin!="1311" & getin!="3851"
       &  getin!="1434" & getin!="4221" & getin!="1441" & getin!="2700" & getin!="3320" & getin!="2575"
         & getin!="1004" & getin!="850" & getin!="851" & getin!="1328" & getin!="2519" & getin!="1203" 
-      & getin!="3490" & getin!="1677" & getin!="1429" & getin!="2529" & getin!="1376")
+      & getin!="3490" & getin!="1677" & getin!="1429" & getin!="2529" & getin!="1376" & getin!="9002")
  
 { }
                  
@@ -491,7 +491,7 @@ else { alert('ESTANTERIA ARRIBA');
              a13.style.transition = '0.5s'
          };*/
 
-if ( getin!="2223" & getin!="1328" & getin!="1323" & getin!="2601"
+if ( getin!="2223" & getin!="1328" & getin!="1323"  
 & getin!="4323"  &  getin!="2632" & getin!="3434"  
 & getin!="3223" & getin!="2000"   & getin!="4328" & getin!="2209"  
 & getin!="2543" & getin!="1085" & getin!="1462" & getin!="3221" 
@@ -533,7 +533,7 @@ else {
 if (    getin!="1201" & getin!="1323"
         & getin!="2560" & getin!="1427" & getin!="2508" 
         &  getin!="2507" & getin!="1304" & getin!="1310" & getin!="1420" 
-        & getin!="1137" & getin!="1498" & getin!="1865"
+        & getin!="1137" & getin!="1498" & getin!="1865" & getin!="1861"
         & getin!="3209" & getin!="3435" & getin!="1138" 
       )
  
@@ -582,7 +582,7 @@ else {
 };
 
 if (  getin!="1152" 
-      & getin!="1400" & getin!="1402" & getin!="3855" & getin!="9002" & getin!="9012"     
+      & getin!="1400" & getin!="1402" & getin!="3855" & getin!="9012"     
       & getin!="camisola" & getin!="2603" & getin!="1087"    
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="1136"
            
@@ -750,7 +750,7 @@ else {
       a150.style.transform = 'scale(1.4)';
     };
 
-    if (getin!="1700" & getin!="1702" & getin!="3539" &  getin!="1084" & getin!="----" &
+    if (getin!="1700" & getin!="1702" & getin!="3539" &  getin!="1084" & getin!="----" & getin!="2601" &
         getin!="2615"  &  getin!="100" & getin!="1436" & getin!="2011" & getin!="1143" & getin!="1150" 
       & getin!="3011" & getin!="4155" & getin!="2010" & getin!="1159"  & getin!="1708" &  getin!="1050" 
         & getin!="1102" &  getin!="1442" &  getin!="1701" & getin!="1156" & getin!="1544")
