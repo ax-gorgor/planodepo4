@@ -422,7 +422,7 @@ else {
 if (   getin!="1550"  &  getin!="1426" &  getin!="1450" & getin!="3850" & getin!="1311" & getin!="3851"
       &  getin!="1434" & getin!="4221" & getin!="1441" & getin!="2700" & getin!="3320" & getin!="2575"
         & getin!="1004" & getin!="850" & getin!="851" & getin!="1328" & getin!="2519" & getin!="1203" 
-      & getin!="3490" & getin!="1677" & getin!="1429" & getin!="2529" & getin!="1376" & getin!="9002")
+      & getin!="3490" & getin!="1677" & getin!="1429" & getin!="2529" & getin!="9002")
  
 { }
                  
@@ -752,7 +752,7 @@ else {
 
     if (getin!="1700" & getin!="1702" & getin!="3539" &  getin!="1084" & getin!="----" & getin!="2601" &
         getin!="2615"  &  getin!="100" & getin!="1436" & getin!="2011" & getin!="1143" & getin!="1150" 
-      & getin!="3011" & getin!="4155" & getin!="2010" & getin!="1159"  & getin!="1708" &  getin!="1050" 
+      & getin!="3011" & getin!="4155" & getin!="2010" & getin!="1159"  & getin!="1708"  
         & getin!="1102" &  getin!="1442" &  getin!="1701" & getin!="1156" & getin!="1544")
  
     { }
@@ -839,7 +839,7 @@ else {
          
        & getin!="3155" & getin!="4011" & getin!="3811" & getin!="3809" 
       & getin!="3386" & getin!="1676" & getin!="1798" & getin!="3137" 
-      & getin!="1050" & getin!="1091" & getin!="4086"  
+      & getin!="1050" & getin!="1091" & getin!="4086"  & getin!="1376" 
       & getin!="Pallazzo"  & getin!="PALLAZZO"  & getin!="pallazzo"  & getin!="Palazzo" 
        & getin!="palazzo" & getin!="PALAZZO")
  
