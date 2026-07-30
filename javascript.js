@@ -326,7 +326,7 @@ else {
 
  
 if (getin!="9086" & getin!="2512" & getin!="1072" & getin!="1113" 
-       & getin!="1308" & getin!="1490" & getin!="1319" & getin!="9001"
+       & getin!="1308" & getin!="1490" & getin!="1319"  
        & getin!="3014" & getin!="3308")  
 
 { }
@@ -583,7 +583,7 @@ else {
 
 if (  getin!="1152" 
       & getin!="1400" & getin!="1402" & getin!="3855" & getin!="9012"     
-      & getin!="camisola" & getin!="2603" & getin!="1087"    
+      & getin!="camisola" & getin!="1087"    
       & getin!="1401" & getin!="1671" &  getin!="Camisola" & getin!="1136"
            
       )
@@ -678,9 +678,12 @@ else {
       a120.style.transform = 'scale(1.6)';
      };
 
-if (  getin!="1322" & getin!="2332" & getin!="1500" & getin!="1321"
-       & getin!="3090" & getin!="3421" & getin!="1074"
-          & getin!="4050" & getin!="4050"&  getin!="2515" & getin!="1101")
+if (  getin!="1322" & getin!="2332" & getin!="1500" & getin!="1321" & getin!="2603"
+       & getin!="3090" & getin!="3421" & getin!="1074" & getin!="4309"
+          & getin!="4050" & getin!="4050"&  getin!="2515" & getin!="1101"
+      & getin!="Pallazzo"  & getin!="PALLAZZO"  & getin!="pallazzo"  & getin!="Palazzo" 
+       & getin!="palazzo" & getin!="PALAZZO"
+      & getin!="p"& getin!="pa"& getin!="pal"& getin!="pala"& getin!="palaz")
 
       
  
@@ -840,8 +843,7 @@ else {
        & getin!="3155" & getin!="4011" & getin!="3811" & getin!="3809" 
       & getin!="3386" & getin!="1676" & getin!="1798" & getin!="3137" 
       & getin!="1050" & getin!="1091" & getin!="4086"  & getin!="1376" 
-      & getin!="Pallazzo"  & getin!="PALLAZZO"  & getin!="pallazzo"  & getin!="Palazzo" 
-       & getin!="palazzo" & getin!="PALAZZO")
+      & getin!="9001" )
  
     { }
                                        
@@ -858,7 +860,7 @@ else {
 
 // ESTANTERIA OFICINA 3 PRINCIPIO //
 
-        if (getin!="1126" & getin!="4309")
+        if (getin!="1126")
  
         { }
                                            
