@@ -75,6 +75,12 @@
        
         
        }
+
+    .taller{font-weight: 300;
+                font-size: 24px;
+                padding: 2%;
+                margin-top:  0%;
+     }
   
     .banner2-0 {font-weight: 300;
                 font-size: 18px;
@@ -219,6 +225,23 @@
        
            
          }
+
+.flex_estantes_centrales{display: flex;
+                         justify-content: center;
+                         align-items: center;
+                        flex-direction: row;
+                        flex-wrap: wrap;
+                         width: 100%;
+                        height: 100%;}
+
+
+
+.estantes_centrales{width: 50%;
+            height: 50%;
+            background: rgb(160, 160, 160) ;
+                     border: 2px solid;
+                     border-radius: 5px;}
+
   
          .banner4-0{width: 100%;
             height: 100%;
@@ -782,6 +805,7 @@
   
   
   }
+
   
   .subcontainer5 { width: 50%;
    height: 100%;
