@@ -84,9 +84,9 @@ else {  a1.style.marginLeft= '10px';
         
      };
 
-if (   getin!="3057" & getin!="4087" &  getin!="2550"
-    &  getin!="1550" & getin!="3431" & getin!="1332"
-    &  getin!="2401"  &  getin!="4683" & getin!="3350" & getin!="9015"
+if (   getin!="4087" & getin!="9015" &  getin!="2550"
+    &  getin!="3057" & getin!="3350" & getin!="1102"
+    &  getin!="2517"  
 )  
  
 { }
@@ -130,9 +130,9 @@ else {
         a2.style.transition = '0.5s';
      };
 
-     if ( getin!="1314"  
-      & getin!="1133" & getin!="2404"
-      & getin!="1340" & getin!="1550" 
+     if ( getin!="1495"  
+      & getin!="1550" & getin!="2404"
+      & getin!="4683" 
       
      )  
  
@@ -193,8 +193,8 @@ else {
        
       };
 
-      if (getin!="2309" & getin!="1135" & getin!="2401"  
-          & getin!="1018" & getin!="2805" & getin!="1495"  
+      if (getin!="1018" & getin!="1010" & getin!="2309"  
+          & getin!="2401" 
       )  
  
       { }
@@ -238,8 +238,8 @@ else {
 
        
 
-        if (  getin!="3015" & getin!="1675" &
-              getin!="2532" & getin!="3860" & getin!="3221" 
+        if (  getin!="3015" & getin!="1683" &
+              getin!="3860" & getin!="2085" & getin!="1055" 
         )  
 
         { }
@@ -260,8 +260,8 @@ else {
 
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
-if (   getin!="2535" & getin!="1683" & getin!="1055"
-       & getin!="9126" &  getin!="2085" )  
+if (   getin!="1072" & getin!="1319" & getin!="2535"
+       & getin!="3095" & getin!="2512" & getin!="2532" & getin!="3811")  
 
 { }
 
@@ -325,9 +325,8 @@ else {
               
 
  
-if (getin!="9086" & getin!="2512" & getin!="1072" & getin!="1113" 
-       & getin!="1308" & getin!="1490" & getin!="1319"  
-       & getin!="3014" & getin!="3308")  
+if (   getin!="1308" & getin!="3221" & getin!="1113" & getin!="3308"  
+       & getin!="1490" & getin!="9001")  
 
 { }
       
@@ -377,7 +376,7 @@ else {
 if (    getin!="1320" & getin!="1438" & getin!="2544"
         
       & getin!="1324"  & getin!="4019"  
-       & getin!="1431" &   getin!="2517" &   getin!="2517"
+       & getin!="1431" 
         & getin!="1434"  & getin!="2230"  & getin!="1602"
        & getin!="1433"   &   getin!="2525" &   getin!="2812"
        )
@@ -560,7 +559,7 @@ else {
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
 if (  
-      getin!="2612" & getin!="1112" & getin!="1010"  
+      getin!="2612" & getin!="1112"  
       & getin!="1111" & getin!="2412"  & getin!="3086"  
       & getin!="1155" & getin!="1376"  & getin!="3809"  & getin!="3086"   
       )
@@ -853,7 +852,7 @@ else {
 
 // ESTANTERIA OFICINA 3 PRINCIPIO //
 
-        if (getin!="2604" & getin!="1539" &  getin!="1129" & getin!="3811")
+        if (getin!="2604" & getin!="1539" &  getin!="1129")
  
         { }
                                            
