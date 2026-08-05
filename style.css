@@ -247,7 +247,7 @@
   
          .banner4-0{width: 100%;
             height: 100%;
-            border: 2px outset;
+            border: 1px outset;
             border-radius: 5px;
             margin-left: 3%;
             padding: 1%;
@@ -261,7 +261,7 @@
   
         .banner4-1{width: 100%;
             height: 100%;
-                                 border: 2px outset;
+                                 border: 1px outset;
                      border-radius: 5px;
                      margin-left: 3%;
                      padding: 1%;
@@ -275,7 +275,7 @@
   
         .banner4-2{width: 100%;
             height: 100%;
-                                 border: 2px outset;
+                                 border: 1px outset;
                      border-radius: 5px;
                      margin-left: 3%;
                      padding: 1%;
@@ -289,7 +289,7 @@
         
         .banner4-3{width: 100%;
             height: 100%;
-                        border: 2px outset;
+                        border: 1px outset;
             border-radius: 5px;
              
             
@@ -303,7 +303,7 @@
   
         .banner4-4{width: 100%;
             height: 100%;
-                                    border: 2px outset;
+                                    border: 1px outset;
             border-radius: 5px;
             margin-right: 3%;
             grid-column-start: 2;
@@ -316,7 +316,7 @@
   
         .banner4-5{width: 100%;
             height: 100%;
-                                    border: 2px outset;
+                                    border: 1px outset;
             border-radius: 5px;
             margin-right: 3%;
             grid-column-start: 2;
