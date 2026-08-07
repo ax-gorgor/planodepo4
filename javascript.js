@@ -420,7 +420,7 @@ else {
 
 if (   getin!="1550"  &  getin!="1426" &  getin!="1450" & getin!="3850" & getin!="1311" & getin!="3851"
       &  getin!="1434" & getin!="4221" & getin!="1441" & getin!="2700" & getin!="3320" & getin!="2575"
-        & getin!="1004" & getin!="850" & getin!="851" & getin!="1328" & getin!="2519"  
+        & getin!="1004" & getin!="1328" & getin!="2519"  
       & getin!="3490" & getin!="1677" & getin!="1429" & getin!="2529" & getin!="9002")
  
 { }
