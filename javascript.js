@@ -325,7 +325,7 @@ else {
               
 
  
-if (   getin!="1308" & getin!="3221" & getin!="1113" & getin!="3308"  
+if (   getin!="1308" & getin!="3221" &  getin!="3308"  
        & getin!="1490" & getin!="9001")  
 
 { }
@@ -581,7 +581,7 @@ else {
 };
 
 if (  getin!="1152" 
-      & getin!="1091" & getin!="1402" & getin!="9012" & getin!="4085"    
+      & getin!="1091" & getin!="1402" & getin!="4085"    
       & getin!="1443" & getin!="1087" & getin!="1130" & getin!="1702"        
       & getin!="1159" & getin!="2601" &  getin!="1315" & getin!="1136"
       & getin!="2603" & getin!="1084" 
@@ -680,6 +680,7 @@ else {
 if (  getin!="2017" & getin!="850" & getin!="1429" & getin!="1321" & getin!="4309"
        & getin!="1788" & getin!="1101" & getin!="1074" & getin!="1675"
           & getin!="4050" & getin!="4050"&  getin!="2515"
+          & getin!="2511" & getin!="2537"
       )
 
       
@@ -831,7 +832,7 @@ else {
       c10.innerHTML = getin;
     };
 
-    if (getin!="1676"  & getin!="1050" 
+    if (getin!="1676"  & getin!="1050" & getin!="9012"
          
        & getin!="4086" & getin!="4011" & getin!="3137" & getin!="1311" 
       & getin!="1109" & getin!="1311" & getin!="3386" & getin!="3155" 
@@ -852,7 +853,7 @@ else {
 
 // ESTANTERIA OFICINA 3 PRINCIPIO //
 
-        if (getin!="2604" & getin!="1539" &  getin!="1129")
+        if (getin!="2604" & getin!="1539" &  getin!="1129" &  getin!="1113")
  
         { }
                                            
