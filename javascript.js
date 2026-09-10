@@ -261,7 +261,7 @@ else {
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
 if (   getin!="1072" & getin!="1319" & getin!="2535"
-       & getin!="3095" & getin!="2512" & getin!="2532" & getin!="3811")  
+       & getin!="3095" & getin!="2512" & getin!="2532")  
 
 { }
 
@@ -560,7 +560,7 @@ else {
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
 if (  
       getin!="2612" & getin!="1112"  
-      & getin!="1111" & getin!="2412"  & getin!="3086"  
+      & getin!="1111" & getin!="2412"  & getin!="3086" & getin!="1114" 
       & getin!="1155" & getin!="1376"  & getin!="3809"  & getin!="3086"   
       )
 
@@ -584,7 +584,7 @@ if (  getin!="1152"
       & getin!="1091" & getin!="1402" & getin!="4085"    
       & getin!="1443" & getin!="1087" & getin!="1130" & getin!="1702"        
       & getin!="1159" & getin!="2601" &  getin!="1315" & getin!="1136"
-      & getin!="2603" & getin!="1084" 
+      & getin!="2603" & getin!="1084" &  getin!="3811" 
       )
 
 { }
@@ -597,7 +597,7 @@ else { alert('Oficina / Negocio');
       a18.style.color= 'black';
       a18.style.fontSize= '18px';
       a18.innerHTML = getin;
-      a18.innerHTML = 'Oficina / Negocio';
+      a18.innerHTML = 'Oficina / Negocio <br> <img src="images/crown.png" width="40" alt="Imagen">';
       a18.style.marginTop= '-60px';
       a18.style.marginLeft= '-48px';
        
