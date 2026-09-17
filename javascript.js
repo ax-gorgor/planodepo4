@@ -533,7 +533,7 @@ if (    getin!="1201" & getin!="1323" & getin!="1329" & getin!="1326"
         & getin!="2560" & getin!="1427" & getin!="2508" 
         &  getin!="2507" & getin!="1304" & getin!="1310" & getin!="1420" 
         & getin!="1137" & getin!="1498" & getin!="1865" & getin!="1861"
-        & getin!="3209" & getin!="1138" 
+        & getin!="1138" 
       )
  
          { }
@@ -581,7 +581,7 @@ else {
 };
 
 if (  getin!="1152" 
-      & getin!="1091" & getin!="1402" & getin!="4085"    
+      & getin!="1091" & getin!="1402" & getin!="4085"   & getin!="3209"   
       & getin!="1443" & getin!="1087" & getin!="1130" & getin!="1702"        
       & getin!="1159" & getin!="2601" &  getin!="1315" & getin!="1136"
       & getin!="2603" & getin!="1084" &  getin!="3811" 
