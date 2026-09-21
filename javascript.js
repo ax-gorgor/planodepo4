@@ -583,7 +583,7 @@ else {
 if (  getin!="1152" 
       & getin!="1091" & getin!="1402" & getin!="4085"   & getin!="3209"   
       & getin!="1443" & getin!="1087" & getin!="1130" & getin!="1702"        
-      & getin!="1159" & getin!="2601" &  getin!="1315" & getin!="1136"
+      & getin!="1159" & getin!="2601" &  getin!="1136"
       & getin!="2603" & getin!="1084" &  getin!="3811" 
       )
 
