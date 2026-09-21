@@ -261,7 +261,7 @@ else {
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
 if (   getin!="1072" & getin!="1319" & getin!="2535"
-       & getin!="3095" & getin!="2512" & getin!="2532")  
+       & getin!="3095" & getin!="2512" )  
 
 { }
 
@@ -351,7 +351,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 
 //// ESTANTERIA DERECHA PRINCIPIO //
 
-if (  getin!="2230" & getin!="1086" & getin!="1671"
+if (  getin!="2230" & getin!="1086" & getin!="1671" 
        & getin!="2577" & getin!="2531" & getin!="1085"
     )
  
@@ -376,7 +376,7 @@ else {
 if (    getin!="1320" & getin!="1438" & getin!="2544"
         
       & getin!="1324"  & getin!="4019"  
-       & getin!="1431" 
+       & getin!="1431" & getin!="2532"
         & getin!="1434"  & getin!="2230"  & getin!="1602"
        & getin!="1433"   &   getin!="2525" &   getin!="2812"
        )
