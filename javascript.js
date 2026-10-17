@@ -193,7 +193,7 @@ else {
        
       };
 
-      if (getin!="1018" & getin!="1010" & getin!="2309"  
+      if (getin!="1018" & getin!="1010" & getin!="2309" & getin!="1146" 
           & getin!="2401" & getin!="1122" & getin!="1315" 
       )  
  
