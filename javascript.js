@@ -220,7 +220,7 @@ else {
 
 // MESA PRINCIPAL IZQUIERDA 1 PRINCIPIO //
 
-if ( getin!="2509" & getin!="2226" & getin!="2805" & getin!="3320"  )  
+if ( getin!="2509" & getin!="2226" & getin!="2805" & getin!="3320" & getin!="1318"  )  
 
 { }
 
@@ -277,7 +277,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
       b2.style.marginLeft= '-12px';
         }
 
-if ( getin!="1305" & getin!="2538" & getin!="2540" )  
+if ( getin!="1305" & getin!="2538" & getin!="2540" & getin!="1318" )  
 
 { }
 
