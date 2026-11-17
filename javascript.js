@@ -584,7 +584,7 @@ if (  getin!="1152"
       & getin!="1091" & getin!="1402" & getin!="4085"   & getin!="3209"   
       & getin!="1443" &  getin!="1130" & getin!="1702"  & getin!="1703"       
       & getin!="2601" &  getin!="1136" & getin!="1073"  
-      & getin!="2603" &  getin!="3811" &  getin!="1144" 
+      & getin!="3811" &  getin!="1144" 
       )
 
 { }
@@ -659,7 +659,7 @@ if (   getin!="2813" & getin!="2226" & getin!="1590"
 if (    getin!="4050" & getin!="2402" & getin!="1327" & getin!="2014" & getin!="2603" 
        & getin!="2821" & getin!="1068" & getin!="1421" & getin!="1330" & getin!="1066"
        & getin!="Pallazzo"  & getin!="PALLAZZO"  & getin!="pallazzo"  & getin!="Palazzo" 
-       & getin!="palazzo" & getin!="PALAZZO" & getin!="1418" 
+       & getin!="palazzo" & getin!="2603" & getin!="1418" 
       & getin!="p"& getin!="pa"& getin!="pal"& getin!="pala"& getin!="palaz"
       )
  
